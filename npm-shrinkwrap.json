@@ -1,0 +1,114 @@
+{
+  "dependencies": {
+    "express": {
+      "version": "4.4.0",
+      "from": "express@",
+      "dependencies": {
+        "accepts": {
+          "version": "1.0.2",
+          "from": "accepts@1.0.2",
+          "dependencies": {
+            "mime": {
+              "version": "1.2.11",
+              "from": "mime@~1.2.11"
+            },
+            "negotiator": {
+              "version": "0.4.5",
+              "from": "negotiator@0.4.5"
+            }
+          }
+        },
+        "buffer-crc32": {
+          "version": "0.2.1",
+          "from": "buffer-crc32@0.2.1"
+        },
+        "parseurl": {
+          "version": "1.0.1",
+          "from": "parseurl@1.0.1"
+        },
+        "proxy-addr": {
+          "version": "1.0.0",
+          "from": "proxy-addr@1.0.0",
+          "dependencies": {
+            "ipaddr.js": {
+              "version": "0.1.2",
+              "from": "ipaddr.js@0.1.2"
+            }
+          }
+        },
+        "range-parser": {
+          "version": "1.0.0",
+          "from": "range-parser@1.0.0"
+        },
+        "send": {
+          "version": "0.4.0",
+          "from": "send@0.4.0",
+          "dependencies": {
+            "finished": {
+              "version": "1.1.4",
+              "from": "finished@1.1.4"
+            },
+            "mime": {
+              "version": "1.2.11",
+              "from": "mime@~1.2.11"
+            }
+          }
+        },
+        "type-is": {
+          "version": "1.2.0",
+          "from": "type-is@1.2.0",
+          "dependencies": {
+            "mime": {
+              "version": "1.2.11",
+              "from": "mime@~1.2.11"
+            }
+          }
+        },
+        "cookie": {
+          "version": "0.1.2",
+          "from": "cookie@0.1.2"
+        },
+        "fresh": {
+          "version": "0.2.2",
+          "from": "fresh@0.2.2"
+        },
+        "methods": {
+          "version": "1.0.0",
+          "from": "methods@1.0.0"
+        },
+        "cookie-signature": {
+          "version": "1.0.3",
+          "from": "cookie-signature@1.0.3"
+        },
+        "merge-descriptors": {
+          "version": "0.0.2",
+          "from": "merge-descriptors@0.0.2"
+        },
+        "utils-merge": {
+          "version": "1.0.0",
+          "from": "utils-merge@1.0.0"
+        },
+        "escape-html": {
+          "version": "1.0.1",
+          "from": "escape-html@1.0.1"
+        },
+        "qs": {
+          "version": "0.6.6",
+          "from": "qs@0.6.6"
+        },
+        "serve-static": {
+          "version": "1.2.0",
+          "from": "serve-static@1.2.0"
+        },
+        "path-to-regexp": {
+          "version": "0.1.2",
+          "from": "path-to-regexp@0.1.2"
+        },
+        "debug": {
+          "version": "0.8.1",
+          "from": "debug@0.8.1"
+        }
+      }
+    }
+  }
+}
