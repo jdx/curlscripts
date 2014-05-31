@@ -9,6 +9,6 @@ app.get('/', function(req, res) {
   }, 200);
 });
 
-app.listen(PORT, function(c) {
+app.listen(PORT, function() {
   console.log("live on port", PORT);
 });
