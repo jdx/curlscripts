@@ -1,0 +1,11 @@
+[
+  {
+    "name": "curlscripts",
+    "script": "app.js",
+    "instances": "4",
+    "env": {
+      "NODE_ENV": "production",
+      "PORT": 80
+    }
+  }
+]
